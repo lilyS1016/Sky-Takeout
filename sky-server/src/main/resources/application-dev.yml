@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tKT7EpH4XtsuC9CWXS5
     access-key-secret: uQLWo5sTWS329HaZegprNxWn01c1N3
     bucket-name: web-stores
+  redis:
+    host: localhost
+    port: 6379
+    password: 20001016
+    database: 1
